@@ -46,8 +46,8 @@ WeatherForcastAPI/
 ## ⚙️ Installation
 ```bash
 # clone the repo
-git clone https://github.com/<your-username>/weather-express-ts.git
-cd weather-express-ts
+git clone https://github.com/hitesh00025/WeatherForcastAPI.git
+cd WeatherForcastAPI
 
 # install dependencies
 npm install
