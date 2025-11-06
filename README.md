@@ -44,7 +44,7 @@ WeatherForcastAPI/
 ---
 
 ## ⚙️ Installation
-```bash
+
 # clone the repo
 git clone https://github.com/hitesh00025/WeatherForcastAPI.git
 cd WeatherForcastAPI
@@ -58,30 +58,28 @@ npm install
 
 ## 🧩 Environment Variables
 Create a `.env` file in the project root:
-```
 PORT=3000
 HOT_F=85
 COLD_F=45
-```
+
 
 ---
 
 ## 🏃‍♂️ Running Locally
-```bash
+
 # run in development (auto reload)
 npm run dev
 
 
-```
+
 Your server should be live at:  
 👉 **http://localhost:3000**
 
 ---
 
 ## 🌤️ Example Request
-```bash
+
 curl "http://localhost:3000/api/forecast?lat=40.7128&lon=-74.0060"
-```
 
 ### Example Response
 ```json
