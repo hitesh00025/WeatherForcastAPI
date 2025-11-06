@@ -21,7 +21,7 @@ A lightweight HTTP server built with **Node.js**, **Express**, and **TypeScript*
 
 ## 🧱 Project Structure
 ```
-weather-express-ts/
+WeatherForcastAPI/
 ├── src/
 │   ├── app.ts
 │   ├── server.ts
